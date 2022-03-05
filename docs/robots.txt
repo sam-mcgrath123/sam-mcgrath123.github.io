@@ -1,5 +1,5 @@
 User-agent: *
-Sitemap: https://sam-mcgrath123.github.io/ghost-website/sitemap.xml
+Sitemap: https://samtest.cadenkraft.com/sitemap.xml
 Disallow: /ghost/
 Disallow: /p/
 Disallow: /email/
