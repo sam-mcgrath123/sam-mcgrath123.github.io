@@ -1,16 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Contribute</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,700&family=Inter:wght@400;500;600;700;800&display=swap">
-    <link rel="stylesheet" href="/assets/built/screen.css?v=3a9b72632f">
 
-    <link rel="canonical" href="https://sam-mcgrath123.github.io/contribute/" />
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+	<title>Contribute</title>
+	<meta name="HandheldFriendly" content="True" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<link rel="stylesheet" type="text/css" href="/assets/css/style.css?v=a7416c256c" />
+
+	<script>
+			var siteUrl = 'https://sam-mcgrath123.github.io';
+	</script>
+
+	<script>
+			var localTheme = localStorage.getItem('attila_theme');
+			switch (localTheme) {
+					case 'dark':
+							document.documentElement.classList.add('theme-dark');
+							break;
+					case 'light':
+							document.documentElement.classList.add('theme-light');
+							break;
+					default:
+							break;
+			}
+	</script>
+
+
+
+			<style>
+				.theme-dark:root {
+				  --ghost-accent-color: #ff6633;
+				}
+				@media (prefers-color-scheme: dark) {
+				  html:not(.theme-light):root {
+				    --ghost-accent-color: #ff6633;
+				  }
+				}
+			</style>
+
+	<link rel="canonical" href="https://sam-mcgrath123.github.io/contribute/" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
     
     <meta property="og:site_name" content="Sam McGrath" />
@@ -146,124 +178,148 @@
 }</style><style>:root {--ghost-accent-color: #0f0750;}</style>
 </head>
 
-<body class="page-template page-contribute is-head-b--a_n">
-    <div class="gh-site">
-        <header id="gh-head" class="gh-head gh-outer">
-            <div class="gh-head-inner gh-inner">
-                <div class="gh-head-brand">
-                    <a class="gh-head-logo" href="https://sam-mcgrath123.github.io">
-                            Sam McGrath
-                    </a>
-                    <button class="gh-burger"></button>
-                </div>
+<body class="page-template page-contribute">
 
-                <nav class="gh-head-menu">
-                    <ul class="nav">
-    <li class="nav-home"><a href="https://sam-mcgrath123.github.io/">Home</a></li>
-    <li class="nav-about"><a href="https://sam-mcgrath123.github.io/about/">About</a></li>
-    <li class="nav-collection"><a href="https://sam-mcgrath123.github.io/tag/getting-started/">Collection</a></li>
-    <li class="nav-author"><a href="https://sam-mcgrath123.github.io/author/ghost/">Author</a></li>
-    <li class="nav-portal"><a href="https://sam-mcgrath123.github.io/portal/">Portal</a></li>
+	<div class="nav-header">
+		<nav class="nav-wrapper" aria-label="Main">
+				<ul>
+		<li class="nav-home"><a href="https://sam-mcgrath123.github.io/"><span>Home</span></a></li>
+		<li class="nav-about"><a href="https://sam-mcgrath123.github.io/about/"><span>About</span></a></li>
+		<li class="nav-collection"><a href="https://sam-mcgrath123.github.io/tag/getting-started/"><span>Collection</span></a></li>
+		<li class="nav-author"><a href="https://sam-mcgrath123.github.io/author/ghost/"><span>Author</span></a></li>
+		<li class="nav-portal"><a href="https://sam-mcgrath123.github.io/portal/"><span>Portal</span></a></li>
 </ul>
 
-                </nav>
+				<ul class="nav-meta">
+  <li class="nav-twitter">
+    <a aria-label="Twitter" href="https://twitter.com/ghost" title="@ghost" target="_blank">
+      <i class="icon icon-twitter" aria-hidden="true"></i>
+      <span>@ghost</span>
+    </a>
+  </li>
+  <li class="nav-facebook">
+    <a aria-label="Facebook" href="https://www.facebook.com/ghost" title="ghost" target="_blank">
+      <i class="icon icon-facebook" aria-hidden="true"></i>
+      <span>ghost</span>
+    </a>
+  </li>
+  <li class="nav-search" style="display: none;">
+    <a title="Search">
+      <i class="icon icon-search" aria-hidden="true"></i>
+      <span>Search</span>
+    </a>
+  </li>
+  <!--
+    <li class="nav-subscribe">
+      <a href="#/portal">Subscribe</a>
+    </li>
+  -->
+</ul>
+		</nav>
 
-                <div class="gh-head-actions">
-                        <a class="gh-head-btn" href="#/portal/signup" data-portal="signup">
-                            <svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" xmlns="http://www.w3.org/2000/svg">
-    <path d="M3.33332 3.33334H16.6667C17.5833 3.33334 18.3333 4.08334 18.3333 5.00001V15C18.3333 15.9167 17.5833 16.6667 16.6667 16.6667H3.33332C2.41666 16.6667 1.66666 15.9167 1.66666 15V5.00001C1.66666 4.08334 2.41666 3.33334 3.33332 3.33334Z" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M18.3333 5L9.99999 10.8333L1.66666 5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>                            Subscribe
-                        </a>
-                </div>
-            </div>
-        </header>
+		<div class="nav-wrapper-control">
+			<div class="inner">
+				<a class="nav-menu" role="button"><i class="icon icon-menu" aria-hidden="true"></i>Menu</a>
+				<a class="nav-search" style="display: none;" title="Search" role="button"><i class="icon icon-search" aria-hidden="true"></i></a>
+			</div>
+		</div>
+	</div>
+	<div class="nav-close" role="button" aria-label="Close"></div>
 
-        
+	<section class="page-wrapper">
 
-<main id="gh-main" class="gh-main">
-    <article class="gh-article post no-image page">
-        <header class="gh-article-header gh-canvas">
+		
 
-            <h1 class="gh-article-title">Contribute</h1>
+<header class="post-header ">
+	<div class="inner">
+		<h1 class="post-title">Contribute</h1>
+	</div>
+</header>
 
+<main class="content" role="main">
+	<article class="post no-image page">
+		<div class="inner">
 
-        </header>
+			<section class="post-content">
+				<p>Oh hey, you clicked every link of our starter content and even clicked this small link in the footer! If you like Ghost and you're enjoying the product so far, we'd hugely appreciate your support in any way you care to show it.</p><p>Ghost is a non-profit organization, and we give away all our intellectual property as open source software. If you believe in what we do, there are a number of ways you can give us a hand, and we hugely appreciate all of them:</p><ul><li>Contribute code via <a href="https://github.com/tryghost">GitHub</a></li><li>Contribute financially via <a href="https://github.com/sponsors/TryGhost">GitHub Sponsors</a></li><li>Contribute financially via <a href="https://opencollective.com/ghost">Open Collective</a></li><li>Contribute reviews via <strong>writing a blog post</strong></li><li>Contribute good vibes via <strong>telling your friends</strong> about us</li></ul><p>Thanks for checking us out!</p>
+			</section>
 
-        <div class="gh-content gh-canvas">
-            <p>Oh hey, you clicked every link of our starter content and even clicked this small link in the footer! If you like Ghost and you're enjoying the product so far, we'd hugely appreciate your support in any way you care to show it.</p><p>Ghost is a non-profit organization, and we give away all our intellectual property as open source software. If you believe in what we do, there are a number of ways you can give us a hand, and we hugely appreciate all of them:</p><ul><li>Contribute code via <a href="https://github.com/tryghost">GitHub</a></li><li>Contribute financially via <a href="https://github.com/sponsors/TryGhost">GitHub Sponsors</a></li><li>Contribute financially via <a href="https://opencollective.com/ghost">Open Collective</a></li><li>Contribute reviews via <strong>writing a blog post</strong></li><li>Contribute good vibes via <strong>telling your friends</strong> about us</li></ul><p>Thanks for checking us out!</p>
-        </div>
-
-    </article>
+		</div>
+	</article>
 </main>
 
 
-        <footer class="gh-foot gh-outer">
-            <div class="gh-foot-inner gh-inner">
-                <div class="gh-copyright">
-                    Sam McGrath © 2022
-                </div>
 
-                <nav class="gh-foot-menu">
-                    <ul class="nav">
-    <li class="nav-data-privacy"><a href="https://sam-mcgrath123.github.io/privacy/">Data &amp; privacy</a></li>
-    <li class="nav-contact"><a href="https://sam-mcgrath123.github.io/contact/">Contact</a></li>
-    <li class="nav-contribute nav-current"><a href="https://sam-mcgrath123.github.io/contribute/">Contribute →</a></li>
+
+
+		<div class="search-wrapper">
+			<div class="search">
+		    <form class="search-form">
+          <input class="search-field" type="text" placeholder="Search …">
+          <button class="search-button" type="submit">
+						<i class="icon icon-search" aria-hidden="true"></i>
+					</button>
+		    </form>
+				<div class="popular-wrapper">
+					<h4 class="popular-title">Topics</h4>
+					<span class="popular-tags post-tags">
+								<a href='/tag/getting-started/'>Getting Started: 7</a>
+					</span>
+				</div>
+				<div class="search-result"></div>
+			</div>
+			<button class="search-wrapper-close" aria-label="Close"></button>
+		</div>
+
+		<div class="nav-footer">
+			<nav class="nav-wrapper" aria-label="Footer">
+				<span class="nav-copy">Sam McGrath &copy; 2022  <a class="nav-rss" title="RSS" href="https://sam-mcgrath123.github.io/rss.xml" target="_blank"><i class="icon icon-rss" aria-hidden="true"></i></a></span>
+				<ul>
+		<li class="nav-data-privacy"><a href="https://sam-mcgrath123.github.io/privacy/"><span>Data &amp; privacy</span></a></li>
+		<li class="nav-contact"><a href="https://sam-mcgrath123.github.io/contact/"><span>Contact</span></a></li>
+		<li class="nav-contribute active"><a href="https://sam-mcgrath123.github.io/contribute/"><span>Contribute →</span></a></li>
 </ul>
 
-                </nav>
+				<span class="nav-credits">Published with <a href="https://ghost.org">Ghost</a> &bull; Theme <a href="https://github.com/zutrinken/attila">Attila</a> &bull; <a class="menu-item js-theme" href="#" data-system="System theme" data-dark="Dark theme" data-light="Light theme"><span class="theme-icon"></span><span class="theme-text">System theme</span> </a> </span>
+			</nav>
+		</div>
 
-                <div class="gh-powered-by">
-                    <a href="https://ghost.org/" target="_blank" rel="noopener">Powered by Ghost</a>
-                </div>
-            </div>
-        </footer>
-    </div>
+	</section>
 
-        <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="pswp__bg"></div>
+	<script type="text/javascript" src="/assets/js/script.js?v=a7416c256c"></script>
 
-    <div class="pswp__scroll-wrap">
-        <div class="pswp__container">
-            <div class="pswp__item"></div>
-            <div class="pswp__item"></div>
-            <div class="pswp__item"></div>
-        </div>
+	<script>
+  $(document).ready(function () {
+		var post = $('.post-content');
+		// Responsive videos with fitVids
+    post.fitVids();
+		// Format code blocks and add line numbers
+		function codestyling() {
+	    $('pre code').each(function(i, e) {
+				// Code highlight
+	      hljs.highlightBlock(e);
+	      // No lines for plain text blocks
+	      if (!$(this).hasClass('language-text')) {
+	        var code = $(this);
+					// Calculate amount of lines
+	        var lines = code.html().split(/\n(?!$)/g).length;
+	        var numbers = [];
+	        if (lines > 1) {
+	          lines++;
+	        }
+	        for (i = 1; i < lines; i++) {
+	          numbers += '<span class="line" aria-hidden="true">' + i + '</span>';
+	        }
+	        code.parent().append('<div class="lines">' + numbers + '</div>');
+	      }
+	    });
+	  }
+	  codestyling();
+  });
+</script>
 
-        <div class="pswp__ui pswp__ui--hidden">
-            <div class="pswp__top-bar">
-                <div class="pswp__counter"></div>
 
-                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
-                <button class="pswp__button pswp__button--share" title="Share"></button>
-                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
-                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+	
 
-                <div class="pswp__preloader">
-                    <div class="pswp__preloader__icn">
-                        <div class="pswp__preloader__cut">
-                            <div class="pswp__preloader__donut"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
-                <div class="pswp__share-tooltip"></div>
-            </div>
-
-            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
-            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
-
-            <div class="pswp__caption">
-                <div class="pswp__caption__center"></div>
-            </div>
-        </div>
-    </div>
-</div>
-    <script src="/assets/built/main.min.js?v=3a9b72632f"></script>
-
-    
 </body>
-
 </html>
