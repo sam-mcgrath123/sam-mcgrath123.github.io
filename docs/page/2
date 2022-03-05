@@ -4,76 +4,16 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Privacy</title>
+    <title>Sam McGrath (Page 2)</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,700&family=Raleway:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,700&display=swap">
     <link rel="stylesheet" href="/assets/built/screen.css?v=778c5c8ba4">
 
-    <link rel="canonical" href="https://sam-mcgrath123.github.io/privacy/" />
+    <link rel="canonical" href="https://sam-mcgrath123.github.io/page/2/" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
-    
-    <meta property="og:site_name" content="Sam McGrath" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Privacy" />
-    <meta property="og:description" content="Wondering how Ghost fares when it comes to privacy and GDPR rules? Good news: Ghost does not use any tracking cookies of any kind. You can integrate any products, services, ads or integrations with Ghost yourself if you want to, but it&#x27;s always a good idea to disclose how subscriber" />
-    <meta property="og:url" content="https://sam-mcgrath123.github.io/privacy/" />
-    <meta property="article:published_time" content="2022-03-05T13:35:50.000Z" />
-    <meta property="article:modified_time" content="2022-03-05T13:35:43.000Z" />
-    <meta property="article:publisher" content="https://www.facebook.com/ghost" />
-    <meta property="article:author" content="https://www.facebook.com/ghost" />
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="Privacy" />
-    <meta name="twitter:description" content="Wondering how Ghost fares when it comes to privacy and GDPR rules? Good news: Ghost does not use any tracking cookies of any kind. You can integrate any products, services, ads or integrations with Ghost yourself if you want to, but it&#x27;s always a good idea to disclose how subscriber" />
-    <meta name="twitter:url" content="https://sam-mcgrath123.github.io/privacy/" />
-    <meta name="twitter:label1" content="Written by" />
-    <meta name="twitter:data1" content="Ghost" />
-    <meta name="twitter:site" content="@ghost" />
-    <meta name="twitter:creator" content="ghost" />
-    
-    <script type="application/ld+json">
-{
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Sam McGrath",
-        "url": "https://sam-mcgrath123.github.io/",
-        "logo": {
-            "@type": "ImageObject",
-            "url": "https://sam-mcgrath123.github.io/favicon.ico",
-            "width": 48,
-            "height": 48
-        }
-    },
-    "author": {
-        "@type": "Person",
-        "name": "Ghost",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://static.ghost.org/v4.0.0/images/ghost-user.png",
-            "width": 400,
-            "height": 400
-        },
-        "url": "https://sam-mcgrath123.github.io/author/ghost/",
-        "sameAs": [
-            "https://ghost.org",
-            "https://www.facebook.com/ghost",
-            "https://twitter.com/ghost"
-        ]
-    },
-    "headline": "Privacy",
-    "url": "https://sam-mcgrath123.github.io/privacy/",
-    "datePublished": "2022-03-05T13:35:50.000Z",
-    "dateModified": "2022-03-05T13:35:43.000Z",
-    "description": "Wondering how Ghost fares when it comes to privacy and GDPR rules? Good news:\nGhost does not use any tracking cookies of any kind.\n\nYou can integrate any products, services, ads or integrations with Ghost\nyourself if you want to, but it&#x27;s always a good idea to disclose how subscriber\ndata will be used by putting together a privacy page.",
-    "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://sam-mcgrath123.github.io/"
-    }
-}
-    </script>
-
+    <link rel="prev" href="https://sam-mcgrath123.github.io/" />
+    <link rel="next" href="https://sam-mcgrath123.github.io/page/3/" />
     <meta name="generator" content="Ghost 4.38" />
     <link rel="alternate" type="application/rss+xml" title="Sam McGrath" href="https://sam-mcgrath123.github.io/rss.xml" />
     <script defer src="https://unpkg.com/@tryghost/portal@~1.15.0/umd/portal.min.js" data-ghost="https://sam-mcgrath123.github.io/" crossorigin="anonymous"></script><style id="gh-members-styles">.gh-post-upgrade-cta-content,
@@ -142,7 +82,7 @@
 }</style><style>:root {--ghost-accent-color: #c34f00;}</style>
 </head>
 
-<body class="page-template page-privacy has-serif-title has-serif-body">
+<body class="paged has-serif-title has-serif-body">
     <div class="gh-site">
         <header id="gh-head" class="gh-head gh-outer">
             <div class="gh-head-inner">
@@ -183,24 +123,109 @@
         </header>
 
         
+<main id="gh-main" class="gh-main gh-canvas">
+    <section class="gh-pagehead">
+        <header class="gh-pagehead-content">
+            <h1 class="gh-pagehead-title">Archive</h1>
 
-<main id="gh-main" class="gh-main">
-    <article class="gh-article post no-image page">
-        <header class="gh-article-header gh-canvas">
-
-    <h1 class="gh-article-title">Privacy</h1>
-
-</header>
+            <div class="gh-pagehead-description">
+                    A collection of 7 issues
+            </div>
+        </header>
+    </section>
 
 
-<section class="gh-content gh-canvas">
-    <p>Wondering how Ghost fares when it comes to privacy and GDPR rules? Good news: Ghost does not use any tracking cookies of any kind.</p><p>You can integrate any products, services, ads or integrations with Ghost yourself if you want to, but it's always a good idea to disclose how subscriber data will be used by putting together a privacy page.</p>
-</section>
+    <section class="gh-section">
+        <h3 class="gh-section-title"><span>Latest</span></h3>
 
-    </article>
+        <div class="gh-feed">
+                    <article class="gh-card post">
+    <a class="gh-card-link" href="/welcome/">
+        <header class="gh-card-header">
+            <h2 class="gh-card-title">Start here for a quick overview of everything you need to know</h2>
+        </header>
+
+        <div class="gh-card-excerpt">We've crammed the most important information to help you get started with Ghost into this one post. It's your cheat-sheet to get started, and your shortcut to advanced features.</div>
+
+        <footer class="gh-card-footer">
+            <time class="gh-card-date" datetime="2022-03-05">Mar 5, 2022</time>
+        </footer>
+    </a>
+</article>                    <article class="gh-card post">
+    <a class="gh-card-link" href="/design/">
+        <header class="gh-card-header">
+            <h2 class="gh-card-title">Customizing your brand and design settings</h2>
+        </header>
+
+        <div class="gh-card-excerpt">How to tweak a few settings in Ghost to transform your site from a generic template to a custom brand with style and personality.</div>
+
+        <footer class="gh-card-footer">
+            <time class="gh-card-date" datetime="2022-03-05">Mar 5, 2022</time>
+        </footer>
+    </a>
+</article>                    <article class="gh-card post">
+    <a class="gh-card-link" href="/write/">
+        <header class="gh-card-header">
+            <h2 class="gh-card-title">Writing and managing content in Ghost, an advanced guide</h2>
+        </header>
+
+        <div class="gh-card-excerpt">A full overview of all the features built into the Ghost editor, including powerful workflow automations to speed up your creative process.</div>
+
+        <footer class="gh-card-footer">
+            <time class="gh-card-date" datetime="2022-03-05">Mar 5, 2022</time>
+        </footer>
+    </a>
+</article>                    <article class="gh-card post">
+    <a class="gh-card-link" href="/portal/">
+        <header class="gh-card-header">
+            <h2 class="gh-card-title">Building your audience with subscriber signups</h2>
+        </header>
+
+        <div class="gh-card-excerpt">How Ghost allows you to turn anonymous readers into an audience of active subscribers, so you know what's working and what isn't.</div>
+
+        <footer class="gh-card-footer">
+            <time class="gh-card-date" datetime="2022-03-05">Mar 5, 2022</time>
+        </footer>
+    </a>
+</article>                    <article class="gh-card post">
+    <a class="gh-card-link" href="/sell/">
+        <header class="gh-card-header">
+            <h2 class="gh-card-title">Selling premium memberships with recurring revenue</h2>
+        </header>
+
+        <div class="gh-card-excerpt">For creators and aspiring entrepreneurs looking to generate a sustainable recurring revenue stream from their creative work, Ghost has built-in payments allowing you to create a subscription commerce business. Connect your Stripe account to Ghost, and you'll be able to quickly and easily create monthly and yearly premium plans for</div>
+
+        <footer class="gh-card-footer">
+            <time class="gh-card-date" datetime="2022-03-05">Mar 5, 2022</time>
+        </footer>
+    </a>
+</article>                    <article class="gh-card post">
+    <a class="gh-card-link" href="/grow/">
+        <header class="gh-card-header">
+            <h2 class="gh-card-title">How to grow your business around an audience</h2>
+        </header>
+
+        <div class="gh-card-excerpt">A guide to collaborating with other staff users to publish, and some resources to help you with the next steps of growing your business</div>
+
+        <footer class="gh-card-footer">
+            <time class="gh-card-date" datetime="2022-03-05">Mar 5, 2022</time>
+        </footer>
+    </a>
+</article>                    <article class="gh-card post">
+    <a class="gh-card-link" href="/integrations/">
+        <header class="gh-card-header">
+            <h2 class="gh-card-title">Setting up apps and custom integrations</h2>
+        </header>
+
+        <div class="gh-card-excerpt">Work with all your favorite apps and tools or create your own custom integrations using the Ghost API.</div>
+
+        <footer class="gh-card-footer">
+            <time class="gh-card-date" datetime="2022-03-05">Mar 5, 2022</time>
+        </footer>
+    </a>
+</article>        </div>
+    </section>
 </main>
-
-
 
             <div class="gh-subscribe-wrapper gh-canvas">
                 <section class="gh-subscribe">
@@ -233,7 +258,7 @@
 
                 <nav class="gh-foot-menu">
                     <ul class="nav">
-    <li class="nav-data-privacy nav-current"><a href="https://sam-mcgrath123.github.io/privacy/">Data &amp; privacy</a></li>
+    <li class="nav-data-privacy"><a href="https://sam-mcgrath123.github.io/privacy/">Data &amp; privacy</a></li>
     <li class="nav-contact"><a href="https://sam-mcgrath123.github.io/contact/">Contact</a></li>
     <li class="nav-contribute"><a href="https://sam-mcgrath123.github.io/contribute/">Contribute →</a></li>
 </ul>
@@ -247,47 +272,7 @@
         </footer>
     </div>
 
-        <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="pswp__bg"></div>
 
-    <div class="pswp__scroll-wrap">
-        <div class="pswp__container">
-            <div class="pswp__item"></div>
-            <div class="pswp__item"></div>
-            <div class="pswp__item"></div>
-        </div>
-
-        <div class="pswp__ui pswp__ui--hidden">
-            <div class="pswp__top-bar">
-                <div class="pswp__counter"></div>
-
-                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
-                <button class="pswp__button pswp__button--share" title="Share"></button>
-                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
-                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
-
-                <div class="pswp__preloader">
-                    <div class="pswp__preloader__icn">
-                        <div class="pswp__preloader__cut">
-                            <div class="pswp__preloader__donut"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
-                <div class="pswp__share-tooltip"></div>
-            </div>
-
-            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
-            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
-
-            <div class="pswp__caption">
-                <div class="pswp__caption__center"></div>
-            </div>
-        </div>
-    </div>
-</div>
     <script src="/assets/built/main.min.js?v=778c5c8ba4"></script>
 
     
